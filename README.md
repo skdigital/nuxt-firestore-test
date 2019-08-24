@@ -1,5 +1,7 @@
 # nuxt-firestore-test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skdigital/nuxt-firestore-test.svg)](https://greenkeeper.io/)
+
 > next firestore test app
 
 ## Build Setup
